@@ -18,7 +18,7 @@ int main()
     return 0;
 }
 
-// Fix negative number input with logical bug. -1 is not greater than 9
+// Fix the negative number input with logical bug. -1 isn't greater than 9
 #include <bits/stdc++.h>
 using namespace std;
 int main()
